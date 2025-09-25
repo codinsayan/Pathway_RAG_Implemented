@@ -1,0 +1,23 @@
+# Ignore the Python virtual environment
+venv/
+*.venv
+.venv
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE and editor-specific files
+.vscode/
+.idea/
+*.swp
+
+# Ignore other common files
+*.log
+
+chroma_db
+*.json
+.env
+pdfs/
