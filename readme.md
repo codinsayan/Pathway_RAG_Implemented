@@ -4,9 +4,7 @@ This project is a full-stack web application designed to help users gain deeper 
 
 ## 🎥 Demo :
 
-
-https://github.com/user-attachments/assets/551ae6c6-e0e8-4b2f-8514-4a5c110a7338
-
+https://github.com/user-attachments/assets/a11e562e-74fc-47e5-b39e-c150876ec321
 
 
 ## **🚀 Getting Started with Docker**
